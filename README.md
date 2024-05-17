@@ -1,5 +1,5 @@
 # arduino-ia-web
-Contrôler des leds en utilisant l'IA, l'arduino et le web
+Contrôler des LEDs en utilisant l'IA, l'arduino et le web
 
 ## Demo
 
@@ -8,7 +8,7 @@ https://github.com/heryfitiavana22/arduino-ia-web/assets/105294881/1b4681bd-df91
 
 
 ## IA utilisé 
-- Le model [`openai/whisper-large-v3`](openai/whisper-large-v3) dans [`Hugging Face`](https://huggingface.co/) pour transcrire l'audio en texte
+- Modèle [`openai/whisper-large-v3`](openai/whisper-large-v3) de [`Hugging Face`](https://huggingface.co/) pour transcrire l'audio en texte
 - [`Gemini`](https://ai.google.dev/gemini-api?hl=fr) pour transfomer la commande en séquence
 
 ## Installation
@@ -25,9 +25,9 @@ https://github.com/heryfitiavana22/arduino-ia-web/assets/105294881/1b4681bd-df91
 ```
 
 ### Arduino
-- réaliser le montage
-- changer le `ssid` et `password` dans le code
-- téléverser le programme
+- Réaliser le montage
+- Changez le `ssid` et `password` dans le code
+- Téléversez le programme sur votre Arduino.
 
 ### web
 > Créer le fichier `.env` et mettre les valeurs exactes
