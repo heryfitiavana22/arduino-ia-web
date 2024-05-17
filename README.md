@@ -2,7 +2,10 @@
 Contrôler des leds en utilisant l'IA, l'arduino et le web
 
 ## Demo
-<video src="./demo.mp4" controls></video>
+
+https://github.com/heryfitiavana22/arduino-ia-web/assets/105294881/1b4681bd-df91-4931-b22b-fe3e85492104
+
+
 
 ## IA utilisé 
 - Le model [`openai/whisper-large-v3`](openai/whisper-large-v3) dans [`Hugging Face`](https://huggingface.co/) pour transcrire l'audio en texte
